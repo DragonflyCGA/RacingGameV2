@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: e577165412742df4197dc8367b784d2e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BodyMain
+    100002: Bumpers1
+    100004: Bumpers2
+    100006: //RootNode
+    100008: Chassis
+    100010: Collider
+    100012: Exhaust
+    100014: Headlight
+    100016: Interior
+    100018: Lamp
+    100020: lightGlass
+    100022: Logo
+    100024: Metal
+    100026: Mirrors
+    100028: RearLightLeft
+    100030: RearLightRight
+    100032: Seams
+    100034: Steer
+    100036: WindowFrame
+    100038: WindowsGlass
+    100040: Wipers
+    400000: BodyMain
+    400002: Bumpers1
+    400004: Bumpers2
+    400006: //RootNode
+    400008: Chassis
+    400010: Collider
+    400012: Exhaust
+    400014: Headlight
+    400016: Interior
+    400018: Lamp
+    400020: lightGlass
+    400022: Logo
+    400024: Metal
+    400026: Mirrors
+    400028: RearLightLeft
+    400030: RearLightRight
+    400032: Seams
+    400034: Steer
+    400036: WindowFrame
+    400038: WindowsGlass
+    400040: Wipers
+    2100000: lambert19
+    2100002: blinn16
+    2100004: atlas1
+    2100006: blinn17
+    2100008: blinn18
+    2100010: glass1
+    2100012: lambert20
+    2100014: phong2
+    2100016: lambert1
+    2100018: lambert21
+    2300000: BodyMain
+    2300002: Bumpers1
+    2300004: Bumpers2
+    2300006: Chassis
+    2300008: Collider
+    2300010: Exhaust
+    2300012: Headlight
+    2300014: Interior
+    2300016: Lamp
+    2300018: lightGlass
+    2300020: Logo
+    2300022: Metal
+    2300024: Mirrors
+    2300026: RearLightLeft
+    2300028: RearLightRight
+    2300030: Seams
+    2300032: Steer
+    2300034: WindowFrame
+    2300036: WindowsGlass
+    2300038: Wipers
+    3300000: BodyMain
+    3300002: Bumpers1
+    3300004: Bumpers2
+    3300006: Chassis
+    3300008: Collider
+    3300010: Exhaust
+    3300012: Headlight
+    3300014: Interior
+    3300016: Lamp
+    3300018: lightGlass
+    3300020: Logo
+    3300022: Metal
+    3300024: Mirrors
+    3300026: RearLightLeft
+    3300028: RearLightRight
+    3300030: Seams
+    3300032: Steer
+    3300034: WindowFrame
+    3300036: WindowsGlass
+    3300038: Wipers
+    4300000: Seams
+    4300002: Bumpers1
+    4300004: Bumpers2
+    4300006: WindowFrame
+    4300008: Steer
+    4300010: Mirrors
+    4300012: BodyMain
+    4300014: Logo
+    4300016: WindowsGlass
+    4300018: Headlight
+    4300020: Chassis
+    4300022: Wipers
+    4300024: Interior
+    4300026: Exhaust
+    4300028: Lamp
+    4300030: lightGlass
+    4300032: RearLightLeft
+    4300034: RearLightRight
+    4300036: Metal
+    4300038: Collider
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

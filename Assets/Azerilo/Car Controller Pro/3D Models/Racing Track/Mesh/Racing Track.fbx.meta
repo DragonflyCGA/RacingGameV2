@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: c12c664053da16547b0e537e931054ab
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bluebump
+    100002: brick
+    100004: brick 1
+    100006: brick 2
+    100008: brick 3
+    100010: bridgewal
+    100012: crane1
+    100014: desks
+    100016: fence1
+    100018: fence2
+    100020: grass1
+    100022: greenlight1
+    100024: greenlight1 1
+    100026: greenlight1 2
+    100028: guards
+    100030: lake
+    100032: lightbox1
+    100034: lightbox1 1
+    100036: lightbox1 2
+    100038: lights
+    100040: pale
+    100042: pitcan1
+    100044: pitcan1 1
+    100046: pitcan1 2
+    100048: pitcan1 3
+    100050: poles
+    100052: poles 1
+    100054: poles 2
+    100056: //RootNode
+    100058: red
+    100060: red 1
+    100062: red 2
+    100064: red 3
+    100066: redcolumn
+    100068: redlight
+    100070: redlight 1
+    100072: redlight 2
+    100074: redlight1
+    100076: redlight1 1
+    100078: redlight1 2
+    100080: road
+    100082: rock1
+    100084: rock2
+    100086: roof1
+    100088: roof2
+    100090: roofblue
+    100092: sand1
+    100094: sand2
+    100096: station1
+    100098: station2
+    100100: station3
+    100102: station4
+    100104: step1
+    100106: step2
+    100108: stonewal
+    100110: tent
+    100112: thu1
+    100114: thu2
+    100116: thu3
+    100118: tirebump
+    100120: transparentwall
+    100122: wall
+    100124: windows
+    100126: woods
+    400000: bluebump
+    400002: brick
+    400004: brick 1
+    400006: brick 2
+    400008: brick 3
+    400010: bridgewal
+    400012: crane1
+    400014: desks
+    400016: fence1
+    400018: fence2
+    400020: grass1
+    400022: greenlight1
+    400024: greenlight1 1
+    400026: greenlight1 2
+    400028: guards
+    400030: lake
+    400032: lightbox1
+    400034: lightbox1 1
+    400036: lightbox1 2
+    400038: lights
+    400040: pale
+    400042: pitcan1
+    400044: pitcan1 1
+    400046: pitcan1 2
+    400048: pitcan1 3
+    400050: poles
+    400052: poles 1
+    400054: poles 2
+    400056: //RootNode
+    400058: red
+    400060: red 1
+    400062: red 2
+    400064: red 3
+    400066: redcolumn
+    400068: redlight
+    400070: redlight 1
+    400072: redlight 2
+    400074: redlight1
+    400076: redlight1 1
+    400078: redlight1 2
+    400080: road
+    400082: rock1
+    400084: rock2
+    400086: roof1
+    400088: roof2
+    400090: roofblue
+    400092: sand1
+    400094: sand2
+    400096: station1
+    400098: station2
+    400100: station3
+    400102: station4
+    400104: step1
+    400106: step2
+    400108: stonewal
+    400110: tent
+    400112: thu1
+    400114: thu2
+    400116: thu3
+    400118: tirebump
+    400120: transparentwall
+    400122: wall
+    400124: windows
+    400126: woods
+    2100000: crane1_mat
+    2100002: lake_mat
+    2100004: tent_mat
+    2100006: road_mat
+    2100008: rock1_mat
+    2100010: rock2_mat
+    2100012: stonewall_mat
+    2100014: sand1_mat
+    2100016: sand2_mat
+    2100018: fence1_mat
+    2100020: fence2_mat
+    2100022: roof1_mat
+    2100024: lambert18
+    2100026: roof2_mat
+    2100028: roofblue_mat
+    2100030: windows_mat
+    2100032: desks_mat
+    2100034: woods_mat
+    2100036: guards_mat
+    2100038: bridgewall_mat
+    2100040: lights_mat
+    2100042: bluebump_mat
+    2100044: tirebump_mat
+    2100046: step1_mat
+    2100048: step2_mat
+    2100050: transparentwall_mat
+    2100052: grass1_mat
+    2100054: redcolumn_mat
+    2100056: brick_mat
+    2100058: pitcan1_mat
+    2100060: poles_mat
+    2100062: greenlight1_mat
+    2100064: redlight1_mat
+    2100066: lightbox1_mat
+    2100068: redlight_mat
+    2100070: wall_cement001
+    2100072: metal_th
+    2300000: bluebump
+    2300002: brick
+    2300004: brick 1
+    2300006: brick 2
+    2300008: brick 3
+    2300010: bridgewal
+    2300012: crane1
+    2300014: desks
+    2300016: fence1
+    2300018: fence2
+    2300020: grass1
+    2300022: greenlight1
+    2300024: greenlight1 1
+    2300026: greenlight1 2
+    2300028: guards
+    2300030: lake
+    2300032: lightbox1
+    2300034: lightbox1 1
+    2300036: lightbox1 2
+    2300038: lights
+    2300040: pale
+    2300042: pitcan1
+    2300044: pitcan1 1
+    2300046: pitcan1 2
+    2300048: pitcan1 3
+    2300050: poles
+    2300052: poles 1
+    2300054: poles 2
+    2300056: red
+    2300058: red 1
+    2300060: red 2
+    2300062: red 3
+    2300064: redcolumn
+    2300066: redlight
+    2300068: redlight 1
+    2300070: redlight 2
+    2300072: redlight1
+    2300074: redlight1 1
+    2300076: redlight1 2
+    2300078: road
+    2300080: rock1
+    2300082: rock2
+    2300084: roof1
+    2300086: roof2
+    2300088: roofblue
+    2300090: sand1
+    2300092: sand2
+    2300094: step1
+    2300096: step2
+    2300098: stonewal
+    2300100: tent
+    2300102: tirebump
+    2300104: transparentwall
+    2300106: wall
+    2300108: windows
+    2300110: woods
+    3300000: bluebump
+    3300002: brick
+    3300004: brick 1
+    3300006: brick 2
+    3300008: brick 3
+    3300010: bridgewal
+    3300012: crane1
+    3300014: desks
+    3300016: fence1
+    3300018: fence2
+    3300020: grass1
+    3300022: greenlight1
+    3300024: greenlight1 1
+    3300026: greenlight1 2
+    3300028: guards
+    3300030: lake
+    3300032: lightbox1
+    3300034: lightbox1 1
+    3300036: lightbox1 2
+    3300038: lights
+    3300040: pale
+    3300042: pitcan1
+    3300044: pitcan1 1
+    3300046: pitcan1 2
+    3300048: pitcan1 3
+    3300050: poles
+    3300052: poles 1
+    3300054: poles 2
+    3300056: red
+    3300058: red 1
+    3300060: red 2
+    3300062: red 3
+    3300064: redcolumn
+    3300066: redlight
+    3300068: redlight 1
+    3300070: redlight 2
+    3300072: redlight1
+    3300074: redlight1 1
+    3300076: redlight1 2
+    3300078: road
+    3300080: rock1
+    3300082: rock2
+    3300084: roof1
+    3300086: roof2
+    3300088: roofblue
+    3300090: sand1
+    3300092: sand2
+    3300094: step1
+    3300096: step2
+    3300098: stonewal
+    3300100: tent
+    3300102: tirebump
+    3300104: transparentwall
+    3300106: wall
+    3300108: windows
+    3300110: woods
+    4300000: crane1
+    4300002: lake
+    4300004: tent
+    4300006: road
+    4300008: rock1
+    4300010: rock2
+    4300012: stonewal
+    4300014: sand1
+    4300016: sand2
+    4300018: fence1
+    4300020: fence2
+    4300022: roof1
+    4300024: roof2
+    4300026: roofblue
+    4300028: windows
+    4300030: desks
+    4300032: woods
+    4300034: guards
+    4300036: bridgewal
+    4300038: lights
+    4300040: bluebump
+    4300042: tirebump
+    4300044: step1
+    4300046: step2
+    4300048: transparentwall
+    4300050: grass1
+    4300052: redcolumn
+    4300054: brick
+    4300056: red
+    4300058: pitcan1
+    4300060: brick
+    4300062: red
+    4300064: pitcan1
+    4300066: brick
+    4300068: red
+    4300070: pitcan1
+    4300072: brick
+    4300074: red
+    4300076: pitcan1
+    4300078: poles
+    4300080: greenlight1
+    4300082: redlight1
+    4300084: lightbox1
+    4300086: redlight
+    4300088: poles
+    4300090: greenlight1
+    4300092: redlight1
+    4300094: lightbox1
+    4300096: redlight
+    4300098: poles
+    4300100: greenlight1
+    4300102: redlight1
+    4300104: lightbox1
+    4300106: redlight
+    4300108: wall
+    4300110: pale
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
